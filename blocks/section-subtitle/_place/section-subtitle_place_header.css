@@ -1,0 +1,11 @@
+@media (max-width: 768px){
+  .section-subtitle{
+    width: calc(100% - 167px);
+  }
+}
+
+@media (max-width: 480px){
+  .section-subtitle{
+    width: calc(100% - 68px);
+  }
+}

@@ -1,0 +1,7 @@
+.features__title_content-before_infinity{
+  max-width: 185px;
+}
+
+.features__title_content-before_infinity::before{
+  content: url(../../../../images/features__infinity-icon.svg);
+}

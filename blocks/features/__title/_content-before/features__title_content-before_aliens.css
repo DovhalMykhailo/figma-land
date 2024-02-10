@@ -1,0 +1,7 @@
+.features__title_content-before_aliens{
+  max-width: 140px;
+}
+
+.features__title_content-before_aliens::before{
+  content: url(../../../../images/features__aliens-icon.svg);
+}

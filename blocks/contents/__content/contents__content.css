@@ -1,0 +1,14 @@
+.contents__content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 33px;
+  margin-top: 54px;
+  max-width: 985px;
+}
+
+@media (max-width: 768px){
+  .contents__content{
+    flex-direction: column;
+  }
+}

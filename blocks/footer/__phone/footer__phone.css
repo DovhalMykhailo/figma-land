@@ -1,0 +1,13 @@
+.footer__phone{
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+}
+
+.footer__phone::before{
+  content: url(../../../images/footer__phone.svg);
+}

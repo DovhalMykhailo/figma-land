@@ -1,0 +1,14 @@
+.header__content{
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 35px;
+}
+
+@media (max-width: 768px){
+  .header__content{
+    padding-top: 67px;
+  }
+}

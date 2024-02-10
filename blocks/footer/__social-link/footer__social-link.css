@@ -1,0 +1,7 @@
+.footer__social-link{
+  transition: opacity 1s ease;
+}
+
+.footer__social-link:hover{
+  opacity: .3;
+}

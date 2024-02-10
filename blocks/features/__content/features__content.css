@@ -1,0 +1,16 @@
+.features__content{
+  display: flex;
+  align-items: center;
+  max-width: 1088px;
+  margin-top: 80px;
+}
+
+
+@media (max-width: 768px){
+  .features__content{
+    margin-top: 27px;
+    flex-direction: column;
+    justify-content: center;
+    gap: 60px;
+  }
+}

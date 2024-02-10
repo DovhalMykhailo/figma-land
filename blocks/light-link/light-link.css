@@ -1,0 +1,16 @@
+.light-link{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: white;
+  border: 1px solid white;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 25px;
+  padding: 13.5px 46px;
+  transition: background-color 1s ease;
+}
+
+.light-link:hover{
+  background-color: #7a7a7a;
+}

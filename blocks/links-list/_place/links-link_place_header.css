@@ -1,0 +1,13 @@
+.links-list_place_header{
+  display: flex;
+  justify-content: space-between;
+  width: 393px;
+  min-width: 300px;
+  align-items: center;
+}
+
+@media (max-width: 1024px){
+  .links-list_place_header{
+    display: none;
+  }
+}

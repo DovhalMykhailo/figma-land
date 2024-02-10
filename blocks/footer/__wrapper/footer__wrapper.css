@@ -1,0 +1,13 @@
+.footer__wrapper{
+  padding: 107px 16px;
+  max-width: 1031px;
+  display: flex;
+  justify-content: space-between;
+  gap: 75px;
+}
+
+@media (max-width: 1024px){
+  .footer__wrapper{
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,7 @@
+.links-list_place_menu{
+  height: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: 40px;
+}

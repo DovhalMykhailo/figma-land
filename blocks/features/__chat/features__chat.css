@@ -1,0 +1,16 @@
+.features__chat{
+  max-width: 696px;
+}
+
+@media (max-width: 1280px){
+  .features__chat{
+    max-width: 596px;
+  }
+}
+
+@media (max-width: 1024px){
+  .features__chat{
+    max-width: 324px;
+  }
+}
+

@@ -1,0 +1,12 @@
+@media (max-width: 1024px){
+  .contents__image-boards{
+    width: 330px;
+    margin: 15px 0;
+  }
+}
+
+@media (max-width: 480px){
+  .contents__image-boards{
+    width: 300px;
+  }
+}

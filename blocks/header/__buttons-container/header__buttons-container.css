@@ -1,0 +1,15 @@
+.header__buttons-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 35px;
+  margin: 85px 0px 35px;
+}
+
+@media (max-width: 768px){
+  .header__buttons-container{
+    flex-direction: column;
+    margin: 57px 0px;
+    gap: 21px;
+  }
+}

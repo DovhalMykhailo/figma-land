@@ -1,0 +1,13 @@
+.features__line-chart{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 55%;
+}
+
+@media (max-width: 768px){
+  .features__line-chart{
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}

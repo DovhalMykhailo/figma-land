@@ -1,0 +1,19 @@
+.advertisement__image{
+  position: absolute;
+  background-image: url(../../../images/advertisement__image.png);
+  right: 0;
+  top: 0;
+  width: 50%;
+  height: 480px;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 1280px){
+  .advertisement__image{
+    position: relative;
+    width: 100%;
+    background-position: center;
+    top: auto;
+    bottom: 0;
+  }
+}

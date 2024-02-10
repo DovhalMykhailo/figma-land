@@ -1,0 +1,7 @@
+.features__title_content-before_cutlery{
+  max-width: 205px;
+}
+
+.features__title_content-before_cutlery::before{
+  content: url(../../../../images/features__cutlery-icon.svg);
+}

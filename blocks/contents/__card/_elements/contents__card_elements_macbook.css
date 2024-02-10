@@ -1,0 +1,9 @@
+.contents__card_elements_macbook{
+  padding: 50px 35px 40px;
+}
+
+@media (max-width: 1024px){
+  .contents__card_elements_macbook{
+    padding: 50px 25px 40px;
+  }
+}

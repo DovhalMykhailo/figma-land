@@ -1,0 +1,6 @@
+.features{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 162px 0px;
+}

@@ -1,0 +1,11 @@
+@media (max-width: 768px){
+  .light-link_place_header{
+    padding: 13.5px 40px;
+  }
+}
+
+@media (max-width: 480px){
+  .light-link_place_header{
+    display: none;
+  }
+}

@@ -1,0 +1,23 @@
+.features__text{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  padding: 74px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 40px;
+  width: 309px;
+}
+
+@media (max-width: 1024px){
+  .features__text{
+    padding: 0px;
+  }
+}
+
+@media (max-width: 768px){
+  .features__text{
+    padding: 0px 28px;
+  }
+}

@@ -1,0 +1,15 @@
+.contents__image-macbook{
+  margin-top: 57px;
+}
+
+@media (max-width: 1024px){
+  .contents__image-macbook{
+    width: 300px;
+  }
+}
+
+@media (max-width: 480px){
+  .contents__image-macbook{
+    width: 270px;
+  }
+}

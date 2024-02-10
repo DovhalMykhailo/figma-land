@@ -1,0 +1,6 @@
+.features__images-box{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding: 0px 28px 50px 28px;
+}
